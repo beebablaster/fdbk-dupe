@@ -1,0 +1,808 @@
+{
+  "users": [
+    {
+      "name": "Азамат",
+      "surname": "Муратов",
+      "email": "a.muratov@kbtu.kz",
+      "password": "azamat123",
+      "role": {
+        "id": 3,
+        "name": "manager"
+      },
+      "photo": "img2.jpg",
+      "id": "a.muratov@kbtu.kz",
+      "organization": "Казахстанско-Британский Технический Университет",
+      "summary": "TechLead в Халык банк, докторант 2 курс, люблю делиться опытом",
+      "specialties": "DevOps, System Design, Advanced Python",
+      "socials": {
+        "instagram": "@sab_sus",
+        "telegram": "@Sabsus",
+        "linkedin": "@sultanov_sabit"
+      },
+      "impressions": "Очень требовательный, но честный преподаватель. Дает абстрактные понятия, сложно понимать, но в конечном итоге дает много пользы",
+      "feed_points": 2094,
+      "achievements": [
+        {
+          "imgSrc": "verification.png",
+        "description": "Верификация пройдена"
+        }, {
+          "imgSrc": "best-teacher.png",
+        "description": "Лучший преподаватель 2023"
+        }, {
+          "imgSrc": "no1-choice.png",
+        "description": "№1 Выбор студентов"
+        }, {
+          "imgSrc": "rocket.png",
+        "description": "Активный пользователь"
+        }, {
+          "imgSrc": "medal.png",
+        "description": "Второе место в номинации"
+        }, {
+          "imgSrc": "no1-choice.png",
+        "description": "№1 Выбор студентов"
+        }, {
+          "imgSrc": "rocket.png",
+        "description": "Активный пользователь"
+        }, {
+          "imgSrc": "medal.png",
+        "description": "Второе место в номинации"
+        }, {
+          "imgSrc": "medal.png",
+          "description": "Второе место в номинации"
+        }
+      ],
+      "certificates": [
+        {
+          "imgSrc": "marketing-basics.png",
+        "description": "Курс: Основы маркетинга"
+        },
+        {
+          "imgSrc": "system-design.png",
+        "description": "Курс: System Design"
+        },
+        {
+          "imgSrc": "intro-to-management.png",
+        "description": "Курс: Intro to management"
+        },
+        {
+          "imgSrc": "marketing-basics.png",
+        "description": "Курс: Основы маркетинга"
+        },
+        {
+          "imgSrc": "system-design.png",
+        "description": "Курс: System Design"
+        },
+        {
+          "imgSrc": "intro-to-management.png",
+        "description": "Курс: Intro to management"
+        }
+      ],
+      "work_experience": [
+        {
+          "imgSrc": "halyk.png",
+        "position": "Tech Lead",
+        "workplace": "Halyk bank, в офисе, полный день",
+        "duration": "01.2023 - Сейчас - 1 год, 3 месяца",
+        "description": "dolore sint amet eiusmod ex eu ea irure officia ea aliqu"
+        },
+        {
+          "imgSrc": "technodom.png",
+        "position": "Backend Team Lead",
+        "workplace": "Technodom, в офисе, полный день",
+        "duration": "06.2020 - 01.23 - 2 года, 6 месяцев",
+        "description": "dolore sint amet eiusmod ex eu ea irure officia ea aliqu"
+        }
+      ],
+      "reviews": [
+        {
+          "userName": "Аноним",
+          "reviewDate": "04.04.2024 19:53",
+          "rating": 3,
+          "content": "Что особенно впечатлило меня в стиле преподавания, так это его умелость говорить сложно о простых вещах."
+        },
+        {
+          "userName": "Аноним",
+          "reviewDate": "04.04.2024 19:53",
+          "rating": 3,
+          "content": "Что особенно впечатлило меня в стиле преподавания, так это его умелость говорить сложно о простых вещах. Его способность сделать материал интересным и доступным, делает учебу более увлекательной и понятной для студентов."
+        },
+        {
+          "userName": "Аноним",
+          "reviewDate": "04.04.2024 19:53",
+          "rating": 3,
+          "content": "Что особенно впечатлило меня в стиле преподавания, так это его умелость говорить сложно о простых вещах. Его способность сделать материал интересным и доступным, делает учебу более увлекательной и понятной для студентов."
+        }
+      ]
+    },
+
+    {
+      "name": "Сабит",
+      "surname": "Султанов",
+      "email": "s.sultanov@kbtu.kz",
+      "password": "1234567",
+      "role": {
+        "id": 2,
+        "name": "manager"
+      },
+      "organization": "Казахстанско-Британский Технический Университет",
+      "photo": "img2.jpg",
+      "id": "s.sultanov@kbtu.kz",
+      "summary": "TechLead в Халык банк, докторант 2 курс, люблю делиться опытом",
+      "specialties": "DevOps, System Design, Advanced Python",
+      "socials": {
+        "instagram": "@sab_sus",
+        "telegram": "@Sabsus",
+        "linkedin": "@sultanov_sabit"
+      },
+      "impressions": "Очень требовательный, но честный преподаватель. Дает абстрактные понятия, сложно понимать, но в конечном итоге дает много пользы",
+      "feed_points": 2094,
+      "achievements": [
+        {
+          "imgSrc": "verification.png",
+          "description": "Верификация пройдена"
+        }, {
+          "imgSrc": "best-teacher.png",
+          "description": "Лучший преподаватель 2023"
+        }, {
+          "imgSrc": "no1-choice.png",
+          "description": "№1 Выбор студентов"
+        }, {
+          "imgSrc": "rocket.png",
+          "description": "Активный пользователь"
+        }, {
+          "imgSrc": "medal.png",
+          "description": "Второе место в номинации"
+        }, {
+          "imgSrc": "no1-choice.png",
+          "description": "№1 Выбор студентов"
+        }, {
+          "imgSrc": "rocket.png",
+          "description": "Активный пользователь"
+        }, {
+          "imgSrc": "medal.png",
+          "description": "Второе место в номинации"
+        }, {
+          "imgSrc": "medal.png",
+          "description": "Второе место в номинации"
+        }
+      ],
+      "certificates": [
+        {
+          "imgSrc": "marketing-basics.png",
+          "description": "Курс: Основы маркетинга"
+        },
+        {
+          "imgSrc": "system-design.png",
+          "description": "Курс: System Design"
+        },
+        {
+          "imgSrc": "intro-to-management.png",
+          "description": "Курс: Intro to management"
+        },
+        {
+          "imgSrc": "marketing-basics.png",
+          "description": "Курс: Основы маркетинга"
+        },
+        {
+          "imgSrc": "system-design.png",
+          "description": "Курс: System Design"
+        },
+        {
+          "imgSrc": "intro-to-management.png",
+          "description": "Курс: Intro to management"
+        }
+      ],
+      "work_experience": [
+        {
+          "imgSrc": "halyk.png",
+          "position": "Tech Lead",
+          "workplace": "Halyk bank, в офисе, полный день",
+          "duration": "01.2023 - Сейчас - 1 год, 3 месяца",
+          "description": "dolore sint amet eiusmod ex eu ea irure officia ea aliqu"
+        },
+        {
+          "imgSrc": "technodom.png",
+          "position": "Backend Team Lead",
+          "workplace": "Technodom, в офисе, полный день",
+          "duration": "06.2020 - 01.23 - 2 года, 6 месяцев",
+          "description": "dolore sint amet eiusmod ex eu ea irure officia ea aliqu"
+        }
+      ],
+      "reviews": [
+        {
+          "userName": "Аноним",
+          "reviewDate": "04.04.2024 19:53",
+          "rating": 3,
+          "content": "Что особенно впечатлило меня в стиле преподавания, так это его умелость говорить сложно о простых вещах."
+        },
+        {
+          "userName": "Аноним",
+          "reviewDate": "04.04.2024 19:53",
+          "rating": 3,
+          "content": "Что особенно впечатлило меня в стиле преподавания, так это его умелость говорить сложно о простых вещах. Его способность сделать материал интересным и доступным, делает учебу более увлекательной и понятной для студентов."
+        },
+        {
+          "userName": "Аноним",
+          "reviewDate": "04.04.2024 19:53",
+          "rating": 3,
+          "content": "Что особенно впечатлило меня в стиле преподавания, так это его умелость говорить сложно о простых вещах. Его способность сделать материал интересным и доступным, делает учебу более увлекательной и понятной для студентов."
+        }
+      ]
+    },
+
+    {
+      "name": "Дамир",
+      "surname": "Сыздыков",
+      "email": "d.syzdykov@kbtu.kz",
+      "password": "beeba123",
+      "role": {
+        "id": 1,
+        "name": "student"
+      },
+      "organization": "Казахстанско-Британский Технический Университет",
+      "photo": "img2.jpg",
+      "id": "d.syzdykov@kbtu.kz",
+      "summary": "TechLead в Халык банк, докторант 2 курс, люблю делиться опытом",
+      "specialties": "DevOps, System Design, Advanced Python",
+      "socials": {
+        "instagram": "@sab_sus",
+        "telegram": "@Sabsus",
+        "linkedin": "@sultanov_sabit"
+      },
+      "impressions": "Очень требовательный, но честный преподаватель. Дает абстрактные понятия, сложно понимать, но в конечном итоге дает много пользы",
+      "feed_points": 2094,
+      "achievements": [
+        {
+          "imgSrc": "verification.png",
+          "description": "Верификация пройдена"
+        }, {
+          "imgSrc": "best-teacher.png",
+          "description": "Лучший преподаватель 2023"
+        }, {
+          "imgSrc": "no1-choice.png",
+          "description": "№1 Выбор студентов"
+        }, {
+          "imgSrc": "rocket.png",
+          "description": "Активный пользователь"
+        }, {
+          "imgSrc": "medal.png",
+          "description": "Второе место в номинации"
+        }, {
+          "imgSrc": "no1-choice.png",
+          "description": "№1 Выбор студентов"
+        }, {
+          "imgSrc": "rocket.png",
+          "description": "Активный пользователь"
+        }, {
+          "imgSrc": "medal.png",
+          "description": "Второе место в номинации"
+        }, {
+          "imgSrc": "medal.png",
+          "description": "Второе место в номинации"
+        }
+      ],
+      "certificates": [
+        {
+          "imgSrc": "marketing-basics.png",
+          "description": "Курс: Основы маркетинга"
+        },
+        {
+          "imgSrc": "system-design.png",
+          "description": "Курс: System Design"
+        },
+        {
+          "imgSrc": "intro-to-management.png",
+          "description": "Курс: Intro to management"
+        },
+        {
+          "imgSrc": "marketing-basics.png",
+          "description": "Курс: Основы маркетинга"
+        },
+        {
+          "imgSrc": "system-design.png",
+          "description": "Курс: System Design"
+        },
+        {
+          "imgSrc": "intro-to-management.png",
+          "description": "Курс: Intro to management"
+        }
+      ],
+      "work_experience": [
+        {
+          "imgSrc": "halyk.png",
+          "position": "Tech Lead",
+          "workplace": "Halyk bank, в офисе, полный день",
+          "duration": "01.2023 - Сейчас - 1 год, 3 месяца",
+          "description": "dolore sint amet eiusmod ex eu ea irure officia ea aliqu"
+        },
+        {
+          "imgSrc": "technodom.png",
+          "position": "Backend Team Lead",
+          "workplace": "Technodom, в офисе, полный день",
+          "duration": "06.2020 - 01.23 - 2 года, 6 месяцев",
+          "description": "dolore sint amet eiusmod ex eu ea irure officia ea aliqu"
+        }
+      ],
+      "reviews": [
+        {
+          "userName": "Аноним",
+          "reviewDate": "04.04.2024 19:53",
+          "rating": 3,
+          "content": "Что особенно впечатлило меня в стиле преподавания, так это его умелость говорить сложно о простых вещах."
+        },
+        {
+          "userName": "Аноним",
+          "reviewDate": "04.04.2024 19:53",
+          "rating": 3,
+          "content": "Что особенно впечатлило меня в стиле преподавания, так это его умелость говорить сложно о простых вещах. Его способность сделать материал интересным и доступным, делает учебу более увлекательной и понятной для студентов."
+        },
+        {
+          "userName": "Аноним",
+          "reviewDate": "04.04.2024 19:53",
+          "rating": 3,
+          "content": "Что особенно впечатлило меня в стиле преподавания, так это его умелость говорить сложно о простых вещах. Его способность сделать материал интересным и доступным, делает учебу более увлекательной и понятной для студентов."
+        }
+      ]
+    },
+
+    {
+      "name": "Асылниет",
+      "surname": "Жетписбаев",
+      "email": "a.zhetpisbaev@kbtu.kz",
+      "password": "asyl123",
+      "role": {
+        "id": 3,
+        "name": "manager"
+      },
+      "organization": "Казахстанско-Британский Технический Университет",
+      "photo": "img2.jpg",
+      "id": "a.zhetpisbaev@kbtu.kz",
+      "summary": "TechLead в Халык банк, докторант 2 курс, люблю делиться опытом",
+      "specialties": "DevOps, System Design, Advanced Python",
+      "socials": {
+        "instagram": "@sab_sus",
+        "telegram": "@Sabsus",
+        "linkedin": "@sultanov_sabit"
+      },
+      "impressions": "Очень требовательный, но честный преподаватель. Дает абстрактные понятия, сложно понимать, но в конечном итоге дает много пользы",
+      "feed_points": 2094,
+      "achievements": [
+        {
+          "imgSrc": "verification.png",
+          "description": "Верификация пройдена"
+        }, {
+          "imgSrc": "best-teacher.png",
+          "description": "Лучший преподаватель 2023"
+        }, {
+          "imgSrc": "no1-choice.png",
+          "description": "№1 Выбор студентов"
+        }, {
+          "imgSrc": "rocket.png",
+          "description": "Активный пользователь"
+        }, {
+          "imgSrc": "medal.png",
+          "description": "Второе место в номинации"
+        }, {
+          "imgSrc": "no1-choice.png",
+          "description": "№1 Выбор студентов"
+        }, {
+          "imgSrc": "rocket.png",
+          "description": "Активный пользователь"
+        }, {
+          "imgSrc": "medal.png",
+          "description": "Второе место в номинации"
+        }, {
+          "imgSrc": "medal.png",
+          "description": "Второе место в номинации"
+        }
+      ],
+      "certificates": [
+        {
+          "imgSrc": "marketing-basics.png",
+          "description": "Курс: Основы маркетинга"
+        },
+        {
+          "imgSrc": "system-design.png",
+          "description": "Курс: System Design"
+        },
+        {
+          "imgSrc": "intro-to-management.png",
+          "description": "Курс: Intro to management"
+        },
+        {
+          "imgSrc": "marketing-basics.png",
+          "description": "Курс: Основы маркетинга"
+        },
+        {
+          "imgSrc": "system-design.png",
+          "description": "Курс: System Design"
+        },
+        {
+          "imgSrc": "intro-to-management.png",
+          "description": "Курс: Intro to management"
+        }
+      ],
+      "work_experience": [
+        {
+          "imgSrc": "halyk.png",
+          "position": "Tech Lead",
+          "workplace": "Halyk bank, в офисе, полный день",
+          "duration": "01.2023 - Сейчас - 1 год, 3 месяца",
+          "description": "dolore sint amet eiusmod ex eu ea irure officia ea aliqu"
+        },
+        {
+          "imgSrc": "technodom.png",
+          "position": "Backend Team Lead",
+          "workplace": "Technodom, в офисе, полный день",
+          "duration": "06.2020 - 01.23 - 2 года, 6 месяцев",
+          "description": "dolore sint amet eiusmod ex eu ea irure officia ea aliqu"
+        }
+      ],
+      "reviews": [
+        {
+          "userName": "Аноним",
+          "reviewDate": "04.04.2024 19:53",
+          "rating": 3,
+          "content": "Что особенно впечатлило меня в стиле преподавания, так это его умелость говорить сложно о простых вещах."
+        },
+        {
+          "userName": "Аноним",
+          "reviewDate": "04.04.2024 19:53",
+          "rating": 3,
+          "content": "Что особенно впечатлило меня в стиле преподавания, так это его умелость говорить сложно о простых вещах. Его способность сделать материал интересным и доступным, делает учебу более увлекательной и понятной для студентов."
+        },
+        {
+          "userName": "Аноним",
+          "reviewDate": "04.04.2024 19:53",
+          "rating": 3,
+          "content": "Что особенно впечатлило меня в стиле преподавания, так это его умелость говорить сложно о простых вещах. Его способность сделать материал интересным и доступным, делает учебу более увлекательной и понятной для студентов."
+        }
+      ]
+    },
+
+    {
+      "name": "Таир",
+      "surname": "Сайранбеков",
+      "email": "t.sairanbekov@kbtu.kz",
+      "password": "tairbo123",
+      "role": {
+        "id": 2,
+        "name": "teacher"
+      },
+      "organization": "Казахстанско-Британский Технический Университет",
+      "photo": "img2.jpg",
+      "id": "t.sairanbekov@kbtu.kz",
+      "summary": "TechLead в Халык банк, докторант 2 курс, люблю делиться опытом",
+      "specialties": "DevOps, System Design, Advanced Python",
+      "socials": {
+        "instagram": "@sab_sus",
+        "telegram": "@Sabsus",
+        "linkedin": "@sultanov_sabit"
+      },
+      "impressions": "Очень требовательный, но честный преподаватель. Дает абстрактные понятия, сложно понимать, но в конечном итоге дает много пользы",
+      "feed_points": 2094,
+      "achievements": [
+        {
+          "imgSrc": "verification.png",
+          "description": "Верификация пройдена"
+        }, {
+          "imgSrc": "best-teacher.png",
+          "description": "Лучший преподаватель 2023"
+        }, {
+          "imgSrc": "no1-choice.png",
+          "description": "№1 Выбор студентов"
+        }, {
+          "imgSrc": "rocket.png",
+          "description": "Активный пользователь"
+        }, {
+          "imgSrc": "medal.png",
+          "description": "Второе место в номинации"
+        }, {
+          "imgSrc": "no1-choice.png",
+          "description": "№1 Выбор студентов"
+        }, {
+          "imgSrc": "rocket.png",
+          "description": "Активный пользователь"
+        }, {
+          "imgSrc": "medal.png",
+          "description": "Второе место в номинации"
+        }, {
+          "imgSrc": "medal.png",
+          "description": "Второе место в номинации"
+        }
+      ],
+      "certificates": [
+        {
+          "imgSrc": "marketing-basics.png",
+          "description": "Курс: Основы маркетинга"
+        },
+        {
+          "imgSrc": "system-design.png",
+          "description": "Курс: System Design"
+        },
+        {
+          "imgSrc": "intro-to-management.png",
+          "description": "Курс: Intro to management"
+        },
+        {
+          "imgSrc": "marketing-basics.png",
+          "description": "Курс: Основы маркетинга"
+        },
+        {
+          "imgSrc": "system-design.png",
+          "description": "Курс: System Design"
+        },
+        {
+          "imgSrc": "intro-to-management.png",
+          "description": "Курс: Intro to management"
+        }
+      ],
+      "work_experience": [
+        {
+          "imgSrc": "halyk.png",
+          "position": "Tech Lead",
+          "workplace": "Halyk bank, в офисе, полный день",
+          "duration": "01.2023 - Сейчас - 1 год, 3 месяца",
+          "description": "dolore sint amet eiusmod ex eu ea irure officia ea aliqu"
+        },
+        {
+          "imgSrc": "technodom.png",
+          "position": "Backend Team Lead",
+          "workplace": "Technodom, в офисе, полный день",
+          "duration": "06.2020 - 01.23 - 2 года, 6 месяцев",
+          "description": "dolore sint amet eiusmod ex eu ea irure officia ea aliqu"
+        }
+      ],
+      "reviews": [
+        {
+          "userName": "Аноним",
+          "reviewDate": "04.04.2024 19:53",
+          "rating": 3,
+          "content": "Что особенно впечатлило меня в стиле преподавания, так это его умелость говорить сложно о простых вещах."
+        },
+        {
+          "userName": "Аноним",
+          "reviewDate": "04.04.2024 19:53",
+          "rating": 3,
+          "content": "Что особенно впечатлило меня в стиле преподавания, так это его умелость говорить сложно о простых вещах. Его способность сделать материал интересным и доступным, делает учебу более увлекательной и понятной для студентов."
+        },
+        {
+          "userName": "Аноним",
+          "reviewDate": "04.04.2024 19:53",
+          "rating": 3,
+          "content": "Что особенно впечатлило меня в стиле преподавания, так это его умелость говорить сложно о простых вещах. Его способность сделать материал интересным и доступным, делает учебу более увлекательной и понятной для студентов."
+        }
+      ]
+    },
+
+    {
+      "name": "Жайсан",
+      "surname": "Сарсенгалиев",
+      "email": "z.sarsengaliev@kbtu.kz",
+      "password": "zhais123",
+      "role": {
+        "id": 3,
+        "name": "manager"
+      },
+      "organization": "Казахстанско-Британский Технический Университет",
+      "photo": "img2.jpg",
+      "id": "z.sarsengaliev@kbtu.kz",
+      "summary": "TechLead в Халык банк, докторант 2 курс, люблю делиться опытом",
+      "specialties": "DevOps, System Design, Advanced Python",
+      "socials": {
+        "instagram": "@sab_sus",
+        "telegram": "@Sabsus",
+        "linkedin": "@sultanov_sabit"
+      },
+      "impressions": "Очень требовательный, но честный преподаватель. Дает абстрактные понятия, сложно понимать, но в конечном итоге дает много пользы",
+      "feed_points": 2094,
+      "achievements": [
+        {
+          "imgSrc": "verification.png",
+          "description": "Верификация пройдена"
+        }, {
+          "imgSrc": "best-teacher.png",
+          "description": "Лучший преподаватель 2023"
+        }, {
+          "imgSrc": "no1-choice.png",
+          "description": "№1 Выбор студентов"
+        }, {
+          "imgSrc": "rocket.png",
+          "description": "Активный пользователь"
+        }, {
+          "imgSrc": "medal.png",
+          "description": "Второе место в номинации"
+        }, {
+          "imgSrc": "no1-choice.png",
+          "description": "№1 Выбор студентов"
+        }, {
+          "imgSrc": "rocket.png",
+          "description": "Активный пользователь"
+        }, {
+          "imgSrc": "medal.png",
+          "description": "Второе место в номинации"
+        }, {
+          "imgSrc": "medal.png",
+          "description": "Второе место в номинации"
+        }
+      ],
+      "certificates": [
+        {
+          "imgSrc": "marketing-basics.png",
+          "description": "Курс: Основы маркетинга"
+        },
+        {
+          "imgSrc": "system-design.png",
+          "description": "Курс: System Design"
+        },
+        {
+          "imgSrc": "intro-to-management.png",
+          "description": "Курс: Intro to management"
+        },
+        {
+          "imgSrc": "marketing-basics.png",
+          "description": "Курс: Основы маркетинга"
+        },
+        {
+          "imgSrc": "system-design.png",
+          "description": "Курс: System Design"
+        },
+        {
+          "imgSrc": "intro-to-management.png",
+          "description": "Курс: Intro to management"
+        }
+      ],
+      "work_experience": [
+        {
+          "imgSrc": "halyk.png",
+          "position": "Tech Lead",
+          "workplace": "Halyk bank, в офисе, полный день",
+          "duration": "01.2023 - Сейчас - 1 год, 3 месяца",
+          "description": "dolore sint amet eiusmod ex eu ea irure officia ea aliqu"
+        },
+        {
+          "imgSrc": "technodom.png",
+          "position": "Backend Team Lead",
+          "workplace": "Technodom, в офисе, полный день",
+          "duration": "06.2020 - 01.23 - 2 года, 6 месяцев",
+          "description": "dolore sint amet eiusmod ex eu ea irure officia ea aliqu"
+        }
+      ],
+      "reviews": [
+        {
+          "userName": "Аноним",
+          "reviewDate": "04.04.2024 19:53",
+          "rating": 3,
+          "content": "Что особенно впечатлило меня в стиле преподавания, так это его умелость говорить сложно о простых вещах."
+        },
+        {
+          "userName": "Аноним",
+          "reviewDate": "04.04.2024 19:53",
+          "rating": 3,
+          "content": "Что особенно впечатлило меня в стиле преподавания, так это его умелость говорить сложно о простых вещах. Его способность сделать материал интересным и доступным, делает учебу более увлекательной и понятной для студентов."
+        },
+        {
+          "userName": "Аноним",
+          "reviewDate": "04.04.2024 19:53",
+          "rating": 3,
+          "content": "Что особенно впечатлило меня в стиле преподавания, так это его умелость говорить сложно о простых вещах. Его способность сделать материал интересным и доступным, делает учебу более увлекательной и понятной для студентов."
+        }
+      ]
+    },
+
+    {
+      "name": "Еркебулан",
+      "surname": "Мукан",
+      "email": "e.mukan@kbtu.kz",
+      "password": "erke123",
+      "role": {
+        "id": 0,
+        "name": "admin"
+      },
+      "organization": "Казахстанско-Британский Технический Университет",
+      "photo": "img2.jpg",
+      "id": "e.mukan@kbtu.kz",
+      "summary": "TechLead в Халык банк, докторант 2 курс, люблю делиться опытом",
+      "specialties": "DevOps, System Design, Advanced Python",
+      "socials": {
+        "instagram": "@sab_sus",
+        "telegram": "@Sabsus",
+        "linkedin": "@sultanov_sabit"
+      },
+      "impressions": "Очень требовательный, но честный преподаватель. Дает абстрактные понятия, сложно понимать, но в конечном итоге дает много пользы",
+      "feed_points": 2094,
+      "achievements": [
+        {
+          "imgSrc": "verification.png",
+          "description": "Верификация пройдена"
+        }, {
+          "imgSrc": "best-teacher.png",
+          "description": "Лучший преподаватель 2023"
+        }, {
+          "imgSrc": "no1-choice.png",
+          "description": "№1 Выбор студентов"
+        }, {
+          "imgSrc": "rocket.png",
+          "description": "Активный пользователь"
+        }, {
+          "imgSrc": "medal.png",
+          "description": "Второе место в номинации"
+        }, {
+          "imgSrc": "no1-choice.png",
+          "description": "№1 Выбор студентов"
+        }, {
+          "imgSrc": "rocket.png",
+          "description": "Активный пользователь"
+        }, {
+          "imgSrc": "medal.png",
+          "description": "Второе место в номинации"
+        }, {
+          "imgSrc": "medal.png",
+          "description": "Второе место в номинации"
+        }
+      ],
+      "certificates": [
+        {
+          "imgSrc": "marketing-basics.png",
+          "description": "Курс: Основы маркетинга"
+        },
+        {
+          "imgSrc": "system-design.png",
+          "description": "Курс: System Design"
+        },
+        {
+          "imgSrc": "intro-to-management.png",
+          "description": "Курс: Intro to management"
+        },
+        {
+          "imgSrc": "marketing-basics.png",
+          "description": "Курс: Основы маркетинга"
+        },
+        {
+          "imgSrc": "system-design.png",
+          "description": "Курс: System Design"
+        },
+        {
+          "imgSrc": "intro-to-management.png",
+          "description": "Курс: Intro to management"
+        }
+      ],
+      "work_experience": [
+        {
+          "imgSrc": "halyk.png",
+          "position": "Tech Lead",
+          "workplace": "Halyk bank, в офисе, полный день",
+          "duration": "01.2023 - Сейчас - 1 год, 3 месяца",
+          "description": "dolore sint amet eiusmod ex eu ea irure officia ea aliqu"
+        },
+        {
+          "imgSrc": "technodom.png",
+          "position": "Backend Team Lead",
+          "workplace": "Technodom, в офисе, полный день",
+          "duration": "06.2020 - 01.23 - 2 года, 6 месяцев",
+          "description": "dolore sint amet eiusmod ex eu ea irure officia ea aliqu"
+        }
+      ],
+      "reviews": [
+        {
+          "userName": "Аноним",
+          "reviewDate": "04.04.2024 19:53",
+          "rating": 3,
+          "content": "Что особенно впечатлило меня в стиле преподавания, так это его умелость говорить сложно о простых вещах."
+        },
+        {
+          "userName": "Аноним",
+          "reviewDate": "04.04.2024 19:53",
+          "rating": 3,
+          "content": "Что особенно впечатлило меня в стиле преподавания, так это его умелость говорить сложно о простых вещах. Его способность сделать материал интересным и доступным, делает учебу более увлекательной и понятной для студентов."
+        },
+        {
+          "userName": "Аноним",
+          "reviewDate": "04.04.2024 19:53",
+          "rating": 3,
+          "content": "Что особенно впечатлило меня в стиле преподавания, так это его умелость говорить сложно о простых вещах. Его способность сделать материал интересным и доступным, делает учебу более увлекательной и понятной для студентов."
+        }
+      ]
+    }
+  ]
+}
